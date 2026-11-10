@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a BCA 2nd-year student<br>👯 I’m looking to collaborate on small project<br>🤝 I’m looking for help with understanding advance programming concepts<br>🌱 I’m currently learning HTML<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a BCA final year student<br>👯 I’m looking to collaborate on small project<br>🤝 I’m looking for help with understanding advance programming concepts<br>🌱 I’m currently learning HTML<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
